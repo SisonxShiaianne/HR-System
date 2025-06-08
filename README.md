@@ -1,6 +1,6 @@
-# HR Management System
+# Employee Tracking & Management System
 
-The **HR Management System** is a system designed for human resource processes including attendance tracking, employee headcount, and employee information.
+The **Employee Tracking & Management System** is a system designed for human resource processes including attendance tracking, employee headcount, and employee information.
 
 ---
 
